@@ -4,9 +4,10 @@ This repository contains Jupyter notebooks and other materials from the Advanced
 
 ## Contents
 
-- 📓 Lab 1: ...
-- 📓 Lab 2: ...
-- 📓 Lab 3: ...
+- 📓 Lab 1: Intro
+- 📓 Lab 2: Detection of Moving Foreground Objects
+- 📓 Lab 3: Segmentation of Foreground Objects
+- 📓 Lab 4: Optical Flow
 - ...
   
 More labs will be added as the course progresses.
